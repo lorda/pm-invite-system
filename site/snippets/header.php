@@ -17,13 +17,15 @@
     <?= css('assets/css/main.css') ?>
 
   </head>
-  <body>
+  <body id="<?= $page->intendedTemplate(); ?>">
+
+    <?php if(!$site->user()) go('/connexion') ?>
 
     <header>
 
       <div class="container">
 
-        <nav class="navbar navbar-light bg-light navbar-expand-lg">
+        <nav class="navbar navbar-light bg-light navbar-expand-lg justify-content-between">
 
           <a href="<?= $site->url() ?>" class="navbar-brand">SMS Invite System</a>
 
@@ -40,6 +42,8 @@
               </li>
             </ul>
           </div> -->
+
+          <a class="btn btn-outline-danger text-right" href="<?= url('deconnexion') ?>">Déconnexion</a>
         </nav>
 
       </div>
