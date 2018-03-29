@@ -1,0 +1,11 @@
+title: Site
+
+fields:
+  title:
+    label: Titre du site
+    type:  text
+    required: true
+
+  description:
+    label: Meta-Description
+    type:  textarea

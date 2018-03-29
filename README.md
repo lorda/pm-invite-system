@@ -1,2 +1,5 @@
-# pm-invite-system
-Système d'invitation pour Point Magnétique
+# Système d'invitation
+Développé pour Point Magnétique
+
+Projet basé sur KirbyCMS
+Envoi de SMS via Twilio

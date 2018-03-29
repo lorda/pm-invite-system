@@ -1,0 +1,9 @@
+title: Error
+
+pages: false
+
+fields:
+  title:
+    label: Titre de la page
+    type:  text
+    required: true

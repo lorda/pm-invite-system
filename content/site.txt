@@ -1,0 +1,13 @@
+Title: Point Magnétique
+
+----
+
+Author: 
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at ligula et dolor sagittis tincidunt. Curabitur bibendum et tortor sit amet sollicitudin. Maecenas quis arcu erat. Sed ultrices nulla et dui pharetra dignissim.
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)

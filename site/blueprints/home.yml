@@ -1,0 +1,9 @@
+title: Accueil
+
+pages: false
+
+fields:
+  title:
+    label: Titre de la page
+    type:  text
+    required: true

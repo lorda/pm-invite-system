@@ -1,0 +1,7 @@
+title: Page
+
+fields:
+  title:
+    label: Titre de la page
+    type:  text
+    required: true
